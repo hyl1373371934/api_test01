@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b16dcd0-3d06-4d08-969d-f2154771752e" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/api_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/user_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/test_user_manager_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cases/test_user_manager_case1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/user_manager_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AERnDNWuWlJCpke60WlSPcAXI1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cases" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\api_test\cases" />
+      <recent name="D:\api_test\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\api_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_case">
+    <configuration name="run_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_user_manager_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/test_user_manager_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest for test_user_manager_case.TestUserManager" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_user_manager_case.TestUserManager&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest in test_user_manager_case1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_user_manager_case1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest in test_user_manager_case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="api_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/cases/test_user_manager_case.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_case" />
+        <item itemvalue="Python 测试.Unittest in test_user_manager_case1.py" />
+        <item itemvalue="Python 测试.Unittest in test_user_manager_case.py" />
+        <item itemvalue="Python 测试.Unittest for test_user_manager_case.TestUserManager" />
+        <item itemvalue="Python.test_user_manager_case" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b16dcd0-3d06-4d08-969d-f2154771752e" name="默认的" comment="" />
+      <created>1654572922988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654572922988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="100" width="850" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1654668571110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="100" width="850" height="630" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1654668571110" />
+    <state x="829" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654671867535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="829" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1654671867535" />
+    <state width="949" height="466" key="DebuggerActiveHint" timestamp="1654667700445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="949" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1654667700445" />
+    <state x="806" y="280" key="Github.ShareDialog" timestamp="1654677917618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="806" y="280" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1654677917618" />
+    <state x="959" y="194" key="Github.UntrackedFilesDialog" timestamp="1654676811478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="959" y="194" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1654676811478" />
+    <state width="1402" height="290" key="GridCell.Tab.0.bottom" timestamp="1654675057679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654675057679" />
+    <state width="1402" height="290" key="GridCell.Tab.0.center" timestamp="1654675057678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654675057678" />
+    <state width="1402" height="290" key="GridCell.Tab.0.left" timestamp="1654675057678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654675057678" />
+    <state width="1402" height="290" key="GridCell.Tab.0.right" timestamp="1654675057678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1402" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654675057678" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1654675057673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654675057673" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1654675057673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1654675057673" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1654675057673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1654675057673" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1654675057673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1654675057673" />
+    <state x="444" y="170" key="Vcs.Push.Dialog.v2" timestamp="1654676376851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="170" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1654676376851" />
+    <state x="1021" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654676339147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1021" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1654676339147" />
+    <state x="783" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1654657102450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="783" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1654657102450" />
+  </component>
+</project>
